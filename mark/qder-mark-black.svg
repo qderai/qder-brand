@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56 56" width="56" height="56" fill="#000000" role="img" aria-label="Qder.ai mark">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56 56" width="56" height="56" role="img" aria-label="Qder.ai mark">
 <title>Qder.ai mark</title>
-<path fill-rule="nonzero" transform="translate(-1 0.65)" d="M5 25A20 20 0 1 1 45 25A20 20 0 1 1 5 25ZM13.2 25A11.8 11.8 0 1 0 36.8 25A11.8 11.8 0 1 0 13.2 25ZM23 41.5L53 41.5L53 49.7L23 49.7Z"></path>
+<!-- Two bubbles (2026-10-18): the guest's and the waiter's, overlapping where the conversation happens. Generated from the 100-unit master scaled to 56. -->
+<path fill="#000000" d="M13.44 3.36H25.76A10.08 10.08 0 0 1 35.84 13.44V17.36H30.24A12.88 12.88 0 0 0 17.36 30.24V35.84H13.44A10.08 10.08 0 0 1 3.36 25.76V13.44A10.08 10.08 0 0 1 13.44 3.36ZM30.24 20.16H42.56A10.08 10.08 0 0 1 52.64 30.24V42.56A10.08 10.08 0 0 1 42.56 52.64H30.24A10.08 10.08 0 0 1 20.16 42.56V30.24A10.08 10.08 0 0 1 30.24 20.16Z"/>
 </svg>
